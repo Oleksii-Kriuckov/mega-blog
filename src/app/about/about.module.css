@@ -1,0 +1,12 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.image {
+  width: 400px;
+  height: 500px;
+  display: inline-block;
+  margin: auto;
+}
